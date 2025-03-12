@@ -7,7 +7,7 @@ This repository provides resources for the following paper:
 
 It is an extended version of the following paper:
 
-> [**Robust Heterogeneous Federated Learning under Data Corruption**]([ICCV 2023 Open Access Repository](https://openaccess.thecvf.com/content/ICCV2023/html/Fang_Robust_Heterogeneous_Federated_Learning_under_Data_Corruption_ICCV_2023_paper.html))  
+> [**Robust Heterogeneous Federated Learning under Data Corruption**](https://openaccess.thecvf.com/content/ICCV2023/html/Fang_Robust_Heterogeneous_Federated_Learning_under_Data_Corruption_ICCV_2023_paper.html)
 > Xiuwen Fang, [Mang Ye](https://marswhu.github.io/index.html), Xiyuan Yang *ICCV 2023*
 
 # [RAHFL Description](#contents)
