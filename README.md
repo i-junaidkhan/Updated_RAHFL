@@ -3,11 +3,13 @@
 This repository provides resources for the following paper:
 
 > [**Robust Asymmetric Heterogeneous Federated Learning With Corrupted Clients**](https://ieeexplore.ieee.org/abstract/document/10833756)
+> 
 > Xiuwen Fang, [Mang Ye](https://marswhu.github.io/index.html), Bo Du *IEEE TPAMI 2025*
 
 It is an extended version of the following paper:
 
 > [**Robust Heterogeneous Federated Learning under Data Corruption**](https://openaccess.thecvf.com/content/ICCV2023/html/Fang_Robust_Heterogeneous_Federated_Learning_under_Data_Corruption_ICCV_2023_paper.html)
+> 
 > Xiuwen Fang, [Mang Ye](https://marswhu.github.io/index.html), Xiyuan Yang *ICCV 2023*
 
 # [RAHFL Description](#contents)
