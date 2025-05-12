@@ -37,7 +37,13 @@ Note: Cifar-10-C can be genearetd by make_cifar_c.py. Data will be processed in 
 You can start training and evaluation as follows:
 
 ```bash
+# Dependencies installation
+conda create -n rahfl python=3.8.5
+conda activate rahfl
+git clone https://github.com/FangXiuwen/RAHFL.git
+cd RAHFL
 pip install -r requirements.txt
+
 # Download the cifar10 and cifar100 datasets to cifar_10 and cifar_100 folders in Dataset
 # init public data and local data
 cd Dataset
