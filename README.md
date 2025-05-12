@@ -69,9 +69,9 @@ python RAHFL.py
             ├── resnet.py
             ├── shufflenet.py
         ├── __init__.py
-        ├── pretrain_4client.py
+        ├── pretrain.py
     ├── HHF
-        ├── RAHFL_4client.py
+        ├── RAHFL.py
     ├── loss.py
     ├── README.md
     ├── requirements.txt
